@@ -1,0 +1,24 @@
+
+2024-09-07 14:41:42,929 | Couldn't find a tree builder with the features you requested: xml. Do you need to install a parser library?
+2024-09-07 14:41:53,037 | Couldn't find a tree builder with the features you requested: xml. Do you need to install a parser library?
+2024-09-07 14:42:26,309 | Couldn't find a tree builder with the features you requested: xml. Do you need to install a parser library?
+2024-09-07 14:43:04,217 | Couldn't find a tree builder with the features you requested: xml. Do you need to install a parser library?
+2024-09-07 14:43:14,338 | Couldn't find a tree builder with the features you requested: xml. Do you need to install a parser library?
+2024-09-07 14:43:24,456 | Couldn't find a tree builder with the features you requested: xml. Do you need to install a parser library?
+2024-09-07 14:43:34,581 | Couldn't find a tree builder with the features you requested: xml. Do you need to install a parser library?
+2024-09-07 14:43:44,685 | Couldn't find a tree builder with the features you requested: xml. Do you need to install a parser library?
+2024-09-07 14:43:54,810 | Couldn't find a tree builder with the features you requested: xml. Do you need to install a parser library?
+2024-09-07 14:44:04,936 | Couldn't find a tree builder with the features you requested: xml. Do you need to install a parser library?
+2024-09-07 14:44:36,289 | {'message': 'Bad token'}
+2024-09-07 15:11:06,855 | Starting bot @VucNewsBot
+2024-09-07 15:11:07,490 | 'Bot' object has no attribute 'send_photo'
+2024-09-07 15:11:17,802 | Starting bot @VucNewsBot
+2024-09-07 15:11:18,432 | 'Bot' object has no attribute 'send_photo'
+2024-09-07 15:11:28,812 | Starting bot @VucNewsBot
+2024-09-07 15:11:29,351 | 'Bot' object has no attribute 'send_photo'
+2024-09-07 15:11:39,679 | Starting bot @VucNewsBot
+2024-09-07 15:11:40,200 | 'Bot' object has no attribute 'send_photo'
+2024-09-07 15:11:50,526 | Starting bot @VucNewsBot
+2024-09-07 15:11:50,900 | 'Bot' object has no attribute 'send_photo'
+2024-09-07 15:12:01,238 | Starting bot @VucNewsBot
+2024-09-07 15:12:01,675 | 'Bot' object has no attribute 'send_photo'
